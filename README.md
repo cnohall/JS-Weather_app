@@ -1,5 +1,5 @@
 # JS-Weather_app
-A web app that's using api's written in javascript
+A web app that's using api's
 
 ![Screenshot](Capture.JPG)
 
