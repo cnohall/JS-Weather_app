@@ -1,9 +1,5 @@
-# JS-Weather_app
-A web app that's using api's
+# Weather App
+A web app that fetches the users location and shows him the weather based on his location,
 
 ![Screenshot](Capture.JPG)
-
-Based on this tutorial:
-https://www.youtube.com/watch?v=wPElVpR1rwA
-
 
